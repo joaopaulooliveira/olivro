@@ -1,10 +1,11 @@
-Como ser um Programador Livre
-=============================
+Como ser um(a) Programador(a) Livre
+===================================
 
-**UM LIVRO LIVRE !**
+**UM LIVRO LIVRE**, para meninos e para meninas de todas as idades !
 
-Este projeto é para a criação de um livro que irá expor como os programadores estão se diversificando em seu trabalho
-e suas atividades atualmente, e como você, programador dos tempos antigos, também pode se diferenciar em suas atividades.
+Este projeto é para a criação de um livro que pretende expor como os programadores e as programadoras
+estão se diversificando e se diferenciando em seu trabalho e em suas atividades atualmente, e como você, programador(a)
+dos tempos mais antigos, também pode se diferenciar de maneira criativa e divertida.
 
 Será criado através de conteúdos redigidos por vários profissionais de Ti que atualmente estão
 no mercado de trabalho, exercendo sua função com maestria e mostrando que não precisamos seguir
@@ -16,6 +17,10 @@ comerciais, e pessoais.
 Para a construção do livro, você, profissional de TI deve responder algumas perguntas,
 que seguem abaixo, para orientar seu texto e, assim, por fim, no livro, consolidar as ideias e
 visões em um material rico que os leitores poderá aproveitar na sequência.
+
+A grande intenção é trazer a tona, é falar sobre o mercado de trabalho de ti, sobre os avanços na indústria
+do código no Brasil, sobre como as empresas mudaram ou não mudaram, sobre monetização de software, entre
+outros tópicos.. fale, fale, fale... :-)
 
 --------------
 
@@ -66,8 +71,8 @@ Ah, se você tem mais alguma questão para adicionar nos items 1 e 3, por favor,
 também. Este é um LIVRO LIVRE! Vamos montar um material muito rico !!!
 
 Coloque no cabeçalho do arquivo .md, o seu nome, seu email e um pequeno dizer informando que concorda
-em que seu texto seja publicado por via digital e impressa, por meio da licença Creative Commons CC BY-SA.
+em que seu texto seja publicado de forma digital e impressa, por meio da licença Creative Commons CC BY-SA.
 
 http://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR
 
-O nome de todos os autores será colocado no livro.
+O nome de todos os autores e autoras será colocado no livro.
